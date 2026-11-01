@@ -55,7 +55,7 @@ the top of each script; see `REPRODUCIBLE_RUNBOOK.md`.
 
 ## Citation and archive
 
-- Repository: <https://github.com/Johnsonlijian/N0-R53-energy-barrier>
+- Repository: <https://github.com/Johnsonlijian/zero-input-collapse-energy-barrier>
 - Archived release (v1.0.0) with a DOI: <https://doi.org/10.5281/zenodo.23853670>
 
 If you use this code or the derived outputs, cite the archived release (see `CITATION.cff`) and

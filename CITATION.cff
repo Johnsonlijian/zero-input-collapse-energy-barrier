@@ -19,7 +19,7 @@ authors:
 version: 1.0.0
 date-released: "2026-11-01"
 license: MIT
-repository-code: "https://github.com/Johnsonlijian/N0-R53-energy-barrier"
+repository-code: "https://github.com/Johnsonlijian/zero-input-collapse-energy-barrier"
 keywords:
   - seismic collapse
   - steel moment frames
