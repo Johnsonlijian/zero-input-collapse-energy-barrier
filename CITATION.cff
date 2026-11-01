@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this code or the derived outputs, please cite this repository and the associated manuscript."
 type: software
 title: "N0/R53 zero-input collapse of steel moment frames: analysis code and derived outputs"
@@ -27,3 +27,6 @@ keywords:
   - energy barrier
   - OpenSees
   - reproducibility
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23853670
