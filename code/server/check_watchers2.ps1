@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -like '*watch_chain*' -or $_.CommandLine -like '*watch_and_chain*' } | Select-Object ProcessId, ParentProcessId, CreationDate, @{n='CL';e={$_.CommandLine.Substring(0,[Math]::Min(120,$_.CommandLine.Length))}} | Format-List

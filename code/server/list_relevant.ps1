@@ -1,0 +1,1 @@
+Get-CimInstance Win32_Process | Where-Object { $_.CommandLine -like '*campaign.py*' -or $_.CommandLine -like '*campaign53*' -or $_.CommandLine -like '*watch_and_chain*' -or $_.CommandLine -like '*pilotA_undamped*' } | Select-Object ProcessId, ParentProcessId, Name, CreationDate, @{n='CL';e={$_.CommandLine.Substring(0,[Math]::Min(140,$_.CommandLine.Length))}} | Format-List

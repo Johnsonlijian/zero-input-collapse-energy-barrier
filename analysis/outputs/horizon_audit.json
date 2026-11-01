@@ -1,0 +1,574 @@
+{
+ "zic": {
+  "SMF12B": {
+   "rec_settled": 643,
+   "rec_horizon": 10,
+   "committed": 721,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [
+    {
+     "rid": "FF120111",
+     "level": "hi",
+     "t_r": 22.86
+    },
+    {
+     "rid": "FF120121",
+     "level": "hi",
+     "t_r": 16.18
+    },
+    {
+     "rid": "FF120812",
+     "level": "lo",
+     "t_r": 8.255
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 13.51
+    },
+    {
+     "rid": "FF120911",
+     "level": "hi",
+     "t_r": 35.04
+    },
+    {
+     "rid": "FF121012",
+     "level": "lo",
+     "t_r": 35.155
+    },
+    {
+     "rid": "FF121211",
+     "level": "lo",
+     "t_r": 39.755
+    },
+    {
+     "rid": "FF121322",
+     "level": "lo",
+     "t_r": 34.5
+    },
+    {
+     "rid": "FF121411",
+     "level": "hi",
+     "t_r": 72.325
+    },
+    {
+     "rid": "FF121412",
+     "level": "hi",
+     "t_r": 57.25
+    }
+   ],
+   "horizon_n_listed": 10
+  },
+  "SMF12CG": {
+   "rec_settled": 595,
+   "rec_horizon": 0,
+   "committed": 570,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF20B": {
+   "rec_settled": 581,
+   "rec_horizon": 20,
+   "committed": 785,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [
+    {
+     "rid": "FF120122",
+     "level": "hi",
+     "t_r": 13.14
+    },
+    {
+     "rid": "FF120122",
+     "level": "hi",
+     "t_r": 16.83
+    },
+    {
+     "rid": "FF120411",
+     "level": "lo",
+     "t_r": 52.4
+    },
+    {
+     "rid": "FF120611",
+     "level": "hi",
+     "t_r": 87.67
+    },
+    {
+     "rid": "FF120722",
+     "level": "hi",
+     "t_r": 37.55
+    },
+    {
+     "rid": "FF120812",
+     "level": "hi",
+     "t_r": 24.405
+    },
+    {
+     "rid": "FF120821",
+     "level": "lo",
+     "t_r": 17.455
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 14.375
+    },
+    {
+     "rid": "FF120911",
+     "level": "hi",
+     "t_r": 26.32
+    },
+    {
+     "rid": "FF120921",
+     "level": "lo",
+     "t_r": 17.3525
+    },
+    {
+     "rid": "FF120922",
+     "level": "lo",
+     "t_r": 27.3525
+    },
+    {
+     "rid": "FF121011",
+     "level": "hi",
+     "t_r": 21.205
+    },
+    {
+     "rid": "FF121022",
+     "level": "hi",
+     "t_r": 26.045
+    },
+    {
+     "rid": "FF121111",
+     "level": "lo",
+     "t_r": 48.2
+    },
+    {
+     "rid": "FF121211",
+     "level": "hi",
+     "t_r": 31.99
+    },
+    {
+     "rid": "FF121211",
+     "level": "lo",
+     "t_r": 13.905
+    },
+    {
+     "rid": "FF121211",
+     "level": "lo",
+     "t_r": 13.355
+    },
+    {
+     "rid": "FF121212",
+     "level": "hi",
+     "t_r": 38.345
+    },
+    {
+     "rid": "FF121421",
+     "level": "lo",
+     "t_r": 44.755
+    },
+    {
+     "rid": "FF121512",
+     "level": "lo",
+     "t_r": 22.5
+    }
+   ],
+   "horizon_n_listed": 20
+  },
+  "SMF20CG": {
+   "rec_settled": 590,
+   "rec_horizon": 24,
+   "committed": 718,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [
+    {
+     "rid": "FF120122",
+     "level": "hi",
+     "t_r": 16.75
+    },
+    {
+     "rid": "FF120611",
+     "level": "lo",
+     "t_r": 32.1
+    },
+    {
+     "rid": "FF120622",
+     "level": "lo",
+     "t_r": 10.355
+    },
+    {
+     "rid": "FF120711",
+     "level": "hi",
+     "t_r": 14.78
+    },
+    {
+     "rid": "FF120721",
+     "level": "lo",
+     "t_r": 13.3
+    },
+    {
+     "rid": "FF120811",
+     "level": "lo",
+     "t_r": 9.055
+    },
+    {
+     "rid": "FF120821",
+     "level": "lo",
+     "t_r": 17.455
+    },
+    {
+     "rid": "FF120821",
+     "level": "lo",
+     "t_r": 14.155
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 12.16
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 14.16
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 14.485
+    },
+    {
+     "rid": "FF120822",
+     "level": "hi",
+     "t_r": 13.485
+    },
+    {
+     "rid": "FF120822",
+     "level": "lo",
+     "t_r": 14.505
+    },
+    {
+     "rid": "FF120911",
+     "level": "lo",
+     "t_r": 16.7
+    },
+    {
+     "rid": "FF120911",
+     "level": "lo",
+     "t_r": 20.06
+    },
+    {
+     "rid": "FF121211",
+     "level": "hi",
+     "t_r": 32.35
+    },
+    {
+     "rid": "FF121211",
+     "level": "hi",
+     "t_r": 32.01
+    },
+    {
+     "rid": "FF121211",
+     "level": "lo",
+     "t_r": 13.905
+    },
+    {
+     "rid": "FF121211",
+     "level": "lo",
+     "t_r": 13.355
+    },
+    {
+     "rid": "FF121212",
+     "level": "lo",
+     "t_r": 12.005
+    },
+    {
+     "rid": "FF121222",
+     "level": "lo",
+     "t_r": 6.6
+    },
+    {
+     "rid": "FF121321",
+     "level": "hi",
+     "t_r": 20.56
+    },
+    {
+     "rid": "FF121412",
+     "level": "lo",
+     "t_r": 40.655
+    },
+    {
+     "rid": "FF121511",
+     "level": "hi",
+     "t_r": 10.37
+    }
+   ],
+   "horizon_n_listed": 24
+  },
+  "SMF2B": {
+   "rec_settled": 1330,
+   "rec_horizon": 0,
+   "committed": 621,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF2CG": {
+   "rec_settled": 839,
+   "rec_horizon": 0,
+   "committed": 119,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4B": {
+   "rec_settled": 2205,
+   "rec_horizon": 0,
+   "committed": 2065,
+   "censored": 0,
+   "files": 300,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4CG": {
+   "rec_settled": 1190,
+   "rec_horizon": 0,
+   "committed": 584,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8B": {
+   "rec_settled": 1092,
+   "rec_horizon": 0,
+   "committed": 1245,
+   "censored": 0,
+   "files": 144,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8CG": {
+   "rec_settled": 1286,
+   "rec_horizon": 0,
+   "committed": 916,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  }
+ },
+ "kick": {
+  "SMF12B": {
+   "rec_settled": 603,
+   "rec_horizon": 4,
+   "committed": 492,
+   "censored": 0,
+   "files": 150,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF12CG": {
+   "rec_settled": 624,
+   "rec_horizon": 0,
+   "committed": 456,
+   "censored": 0,
+   "files": 148,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF20B": {
+   "rec_settled": 653,
+   "rec_horizon": 15,
+   "committed": 478,
+   "censored": 0,
+   "files": 151,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF20CG": {
+   "rec_settled": 633,
+   "rec_horizon": 30,
+   "committed": 482,
+   "censored": 0,
+   "files": 152,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF2B": {
+   "rec_settled": 1134,
+   "rec_horizon": 0,
+   "committed": 839,
+   "censored": 0,
+   "files": 274,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF2CG": {
+   "rec_settled": 202,
+   "rec_horizon": 0,
+   "committed": 138,
+   "censored": 0,
+   "files": 47,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4B": {
+   "rec_settled": 3458,
+   "rec_horizon": 0,
+   "committed": 1697,
+   "censored": 0,
+   "files": 717,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4CG": {
+   "rec_settled": 997,
+   "rec_horizon": 0,
+   "committed": 752,
+   "censored": 0,
+   "files": 242,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8B": {
+   "rec_settled": 2757,
+   "rec_horizon": 0,
+   "committed": 1531,
+   "censored": 0,
+   "files": 604,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8CG": {
+   "rec_settled": 1338,
+   "rec_horizon": 0,
+   "committed": 969,
+   "censored": 0,
+   "files": 314,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  }
+ },
+ "kick_undamped": {
+  "SMF12B": {
+   "rec_settled": 270,
+   "rec_horizon": 167,
+   "committed": 283,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF12CG": {
+   "rec_settled": 359,
+   "rec_horizon": 34,
+   "committed": 287,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF20B": {
+   "rec_settled": 197,
+   "rec_horizon": 159,
+   "committed": 284,
+   "censored": 0,
+   "files": 86,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF20CG": {
+   "rec_settled": 299,
+   "rec_horizon": 87,
+   "committed": 309,
+   "censored": 0,
+   "files": 88,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF2B": {
+   "rec_settled": 639,
+   "rec_horizon": 201,
+   "committed": 543,
+   "censored": 0,
+   "files": 172,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF2CG": {
+   "rec_settled": 85,
+   "rec_horizon": 64,
+   "committed": 83,
+   "censored": 0,
+   "files": 30,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4B": {
+   "rec_settled": 617,
+   "rec_horizon": 394,
+   "committed": 568,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF4CG": {
+   "rec_settled": 639,
+   "rec_horizon": 93,
+   "committed": 427,
+   "censored": 0,
+   "files": 152,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8B": {
+   "rec_settled": 858,
+   "rec_horizon": 123,
+   "committed": 635,
+   "censored": 0,
+   "files": 200,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  },
+  "SMF8CG": {
+   "rec_settled": 858,
+   "rec_horizon": 22,
+   "committed": 565,
+   "censored": 0,
+   "files": 186,
+   "horizon_states": [],
+   "horizon_n_listed": 0
+  }
+ },
+ "law_hits": {
+  "n": 14,
+  "by_model": {
+   "SMF12B": 2,
+   "SMF20B": 5,
+   "SMF20CG": 7
+  },
+  "by_role": {}
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "horizon_audit.py",
+   "generator_sha256_16": "eb53e5f8ba3fd647",
+   "declared_inputs": [
+    "runs/zic",
+    "runs/kick",
+    "runs/kick_undamped"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

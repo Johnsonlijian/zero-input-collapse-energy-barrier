@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived outputs, please cite this repository and the associated manuscript."
+type: software
+title: "N0/R53 zero-input collapse of steel moment frames: analysis code and derived outputs"
+abstract: >-
+  Analysis code, frozen protocol and derived numerical outputs for a study of
+  collapse commitment in steel moment-frame archetypes under zero input. The
+  campaign halts the ground motion along collapse histories of ten published
+  archetypes (2-20 storeys, bare and composite-gravity variants, 100 FEMA P695
+  records each) and tests whether commitment to collapse is governed by an
+  energy barrier of the damaged configuration. Repository contents support the
+  tables and figures of the associated manuscript; the ground-motion records
+  and the archetype model sources are not redistributed.
+authors:
+  - family-names: Ren
+    given-names: Lijian
+    affiliation: "School of Civil Engineering, Inner Mongolia University of Technology, Hohhot 010051, China"
+    orcid: "https://orcid.org/0000-0003-1629-4368"
+version: 1.0.0
+date-released: "2026-11-01"
+license: MIT
+repository-code: "https://github.com/Johnsonlijian/N0-R53-energy-barrier"
+keywords:
+  - seismic collapse
+  - steel moment frames
+  - nonlinear dynamic analysis
+  - energy barrier
+  - OpenSees
+  - reproducibility

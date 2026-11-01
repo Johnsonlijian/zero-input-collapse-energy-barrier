@@ -1,0 +1,55 @@
+{
+ "SMF12B": {
+  "committed": 721,
+  "nonconv": 0
+ },
+ "SMF12CG": {
+  "committed": 570,
+  "nonconv": 0
+ },
+ "SMF20B": {
+  "committed": 785,
+  "nonconv": 0
+ },
+ "SMF20CG": {
+  "committed": 718,
+  "nonconv": 0
+ },
+ "SMF2B": {
+  "committed": 621,
+  "nonconv": 0
+ },
+ "SMF2CG": {
+  "committed": 119,
+  "nonconv": 0
+ },
+ "SMF4B": {
+  "committed": 2065,
+  "nonconv": 0
+ },
+ "SMF4CG": {
+  "committed": 584,
+  "nonconv": 0
+ },
+ "SMF8B": {
+  "committed": 1245,
+  "nonconv": 0
+ },
+ "SMF8CG": {
+  "committed": 916,
+  "nonconv": 0
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "label_cause_scan.py",
+   "generator_sha256_16": "bd1b64147ce35a6d",
+   "declared_inputs": [
+    "analysis/law_table.csv",
+    "runs/zic"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

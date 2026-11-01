@@ -1,0 +1,77 @@
+{
+ "n_states": 604,
+ "classes": {
+  "identical": 366,
+  "missed_repetition": 19,
+  "no_barrier": 116,
+  "same_work_diffstep": 16,
+  "deviated_work": 68,
+  "missed_canonical": 15,
+  "exit_flip": 4
+ },
+ "by_model": {
+  "SMF12CG": {
+   "no_barrier": 20,
+   "deviated_work": 10,
+   "identical": 53,
+   "same_work_diffstep": 2,
+   "missed_repetition": 2,
+   "missed_canonical": 1
+  },
+  "SMF20B": {
+   "identical": 24,
+   "missed_canonical": 2,
+   "no_barrier": 4
+  },
+  "SMF20CG": {
+   "identical": 38,
+   "deviated_work": 16,
+   "no_barrier": 23,
+   "same_work_diffstep": 4,
+   "exit_flip": 3,
+   "missed_canonical": 4
+  },
+  "SMF2CG": {
+   "identical": 12,
+   "missed_repetition": 4,
+   "no_barrier": 13,
+   "same_work_diffstep": 1
+  },
+  "SMF4B": {
+   "identical": 29,
+   "no_barrier": 1
+  },
+  "SMF4CG": {
+   "identical": 106,
+   "no_barrier": 17,
+   "same_work_diffstep": 2,
+   "deviated_work": 17,
+   "missed_repetition": 6,
+   "missed_canonical": 4
+  },
+  "SMF8CG": {
+   "no_barrier": 38,
+   "identical": 104,
+   "deviated_work": 25,
+   "same_work_diffstep": 7,
+   "missed_repetition": 7,
+   "exit_flip": 1,
+   "missed_canonical": 4
+  }
+ },
+ "work_spread_pct_median": 0.008143568647449327,
+ "work_spread_pct_max": 4.592300751690711,
+ "note": "A13 repeat-run audit partition; A17 deterministic-phi re-run lands in runs/push_det and is compared in fork_det.json",
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "fork_rate_json.py",
+   "generator_sha256_16": "5cf2665a2950fad3",
+   "declared_inputs": [
+    "analysis/fork_rate.csv"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "SMF2B": {
+  "push": {
+   "counts": {
+    "drift": 476,
+    "trunc_open": 98,
+    "null": 30,
+    "trunc_at_edge": 6,
+    "edge": 4,
+    "downhill": 3
+   },
+   "open_final_lam_frac_median": 0.34180166886446256,
+   "open_final_droof_median": 0.0798809523809519
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "drift",
+    null,
+    null
+   ],
+   "W_bwd": [
+    "trunc_at_edge",
+    0.0005591938609940896,
+    0.1471428571428635
+   ]
+  }
+ },
+ "SMF2CG": {
+  "push": {
+   "counts": {
+    "trunc_open": 25,
+    "null": 36,
+    "drift": 44,
+    "edge": 1,
+    "downhill": 1
+   },
+   "open_final_lam_frac_median": 0.8836066517967306,
+   "open_final_droof_median": 0.0798809523809508
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_open",
+    1.0,
+    0.049523809523808734
+   ],
+   "W_bwd": [
+    "drift",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF4B": {
+  "push": {
+   "counts": {
+    "trunc_at_edge": 196,
+    "edge": 333,
+    "null": 94,
+    "downhill": 87,
+    "trunc_open": 4,
+    "drift": 5
+   },
+   "open_final_lam_frac_median": 0.021664985028056923,
+   "open_final_droof_median": 0.08000000000000437
+  },
+  "a6_deep_W_fwd": {
+   "counts": {
+    "trunc_at_edge": 150,
+    "edge": 114,
+    "drift": 3
+   }
+  },
+  "a6_deep_W_bwd": {
+   "counts": {
+    "trunc_at_edge": 215,
+    "edge": 51,
+    "trunc_open": 1
+   }
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_at_edge",
+    0.00015957700070305705,
+    0.08246913580247339
+   ],
+   "W_bwd": [
+    "trunc_at_edge",
+    0.0008052584137169977,
+    0.08231481481481905
+   ]
+  }
+ },
+ "SMF4CG": {
+  "push": {
+   "counts": {
+    "edge": 8,
+    "drift": 351,
+    "trunc_at_edge": 6,
+    "null": 147,
+    "trunc_open": 28,
+    "downhill": 3
+   },
+   "open_final_lam_frac_median": 0.739435106634412,
+   "open_final_droof_median": 0.04234567901234476
+  },
+  "push_deep": {
+   "counts": {
+    "drift": 124,
+    "null": 21,
+    "trunc_at_edge": 2,
+    "edge": 4,
+    "trunc_open": 1
+   },
+   "open_final_lam_frac_median": 1.0,
+   "open_final_droof_median": 1.5432098765396132e-07
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_open",
+    0.8113994438820762,
+    0.04558641975308559
+   ],
+   "W_bwd": [
+    "drift",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF8B": {
+  "push": {
+   "counts": {
+    "null": 116,
+    "trunc_at_edge": 143,
+    "edge": 258,
+    "downhill": 80,
+    "trunc_open": 3,
+    "drift": 4
+   },
+   "open_final_lam_frac_median": 1.0,
+   "open_final_droof_median": 0.0006918238993711438
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_at_edge",
+    0.0008371420352363152,
+    0.04610062893082042
+   ],
+   "W_bwd": [
+    "edge",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF8CG": {
+  "push": {
+   "counts": {
+    "drift": 432,
+    "null": 223,
+    "trunc_open": 19,
+    "downhill": 8,
+    "edge": 2
+   },
+   "open_final_lam_frac_median": 0.9578272295451673,
+   "open_final_droof_median": 0.017091194968553103
+  },
+  "push_deep": {
+   "counts": {
+    "null": 42,
+    "drift": 141,
+    "downhill": 2,
+    "trunc_open": 1
+   },
+   "open_final_lam_frac_median": 0.4558017604574728,
+   "open_final_droof_median": 0.011116352201259621
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_open",
+    0.9583710091089972,
+    0.023852201257861198
+   ],
+   "W_bwd": [
+    "drift",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF12B": {
+  "push": {
+   "counts": {
+    "edge": 104,
+    "trunc_at_edge": 95,
+    "null": 115,
+    "trunc_open": 1,
+    "downhill": 11
+   },
+   "open_final_lam_frac_median": 0.011454931821978728,
+   "open_final_droof_median": 0.006930379746836013
+  },
+  "push_deep": {
+   "counts": {
+    "null": 9,
+    "trunc_open": 1,
+    "trunc_at_edge": 29,
+    "edge": 49
+   },
+   "open_final_lam_frac_median": 0.011454931816726304,
+   "open_final_droof_median": 0.0069303797468360205
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_at_edge",
+    0.00016686115532357285,
+    0.03688818565401014
+   ],
+   "W_bwd": [
+    "trunc_at_edge",
+    6.461915022408157e-05,
+    0.03820675105485377
+   ]
+  }
+ },
+ "SMF12CG": {
+  "push": {
+   "counts": {
+    "trunc_open": 32,
+    "null": 114,
+    "downhill": 16,
+    "trunc_at_edge": 52,
+    "edge": 41,
+    "drift": 68
+   },
+   "open_final_lam_frac_median": 0.03615624610523297,
+   "open_final_droof_median": 0.014604430379747577
+  },
+  "push_deep": {
+   "counts": {
+    "null": 21,
+    "edge": 16,
+    "drift": 27,
+    "trunc_at_edge": 21,
+    "trunc_open": 3
+   },
+   "open_final_lam_frac_median": 0.020813825902782985,
+   "open_final_droof_median": 0.014419831223628657
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_open",
+    0.9582797948458635,
+    0.02275316455696263
+   ],
+   "W_bwd": [
+    "drift",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF20B": {
+  "push": {
+   "counts": {
+    "edge": 71,
+    "downhill": 6,
+    "trunc_at_edge": 111,
+    "null": 133,
+    "trunc_open": 2
+   },
+   "open_final_lam_frac_median": 0.011359870083017923,
+   "open_final_droof_median": 0.004545165394401118
+  },
+  "push_deep": {
+   "counts": {
+    "edge": 13,
+    "trunc_at_edge": 20,
+    "null": 14,
+    "trunc_open": 2
+   },
+   "open_final_lam_frac_median": 0.011359870082280819,
+   "open_final_droof_median": 0.004545165394401118
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_at_edge",
+    0.00038839421919485516,
+    0.029847328244274322
+   ],
+   "W_bwd": [
+    "edge",
+    null,
+    null
+   ]
+  }
+ },
+ "SMF20CG": {
+  "push": {
+   "counts": {
+    "edge": 35,
+    "null": 160,
+    "downhill": 8,
+    "trunc_open": 61,
+    "trunc_at_edge": 64
+   },
+   "open_final_lam_frac_median": 0.0685072929519706,
+   "open_final_droof_median": 0.0076463104325684445
+  },
+  "intact_deep": {
+   "W_fwd": [
+    "trunc_open",
+    0.9120669295231385,
+    0.019955470737914826
+   ],
+   "W_bwd": [
+    "trunc_at_edge",
+    0.0010164957427445062,
+    0.03251908396946469
+   ]
+  }
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "t95_all.py",
+   "generator_sha256_16": "a40b6a9f1734c631",
+   "declared_inputs": [
+    "runs/t95"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

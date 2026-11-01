@@ -1,0 +1,113 @@
+{
+ "SMF4CG": {
+  "n": 152,
+  "both_resolved_n": 122,
+  "both_resolved_median": 0.9999999999986982,
+  "both_resolved_max_abs_dev": 0.03881767245123857,
+  "transitions": {
+   "drift->drift": 116,
+   "None->None": 17,
+   "None->drift": 7,
+   "drift->None": 4,
+   "stall->stall": 2,
+   "trunc->drift": 1,
+   "edge->edge": 4,
+   "None->trunc": 1
+  }
+ },
+ "SMF8CG": {
+  "n": 186,
+  "both_resolved_n": 129,
+  "both_resolved_median": 1.0000000000000202,
+  "both_resolved_max_abs_dev": 0.07543807430438099,
+  "transitions": {
+   "None->None": 37,
+   "drift->drift": 132,
+   "downhill->downhill": 2,
+   "drift->None": 5,
+   "None->drift": 8,
+   "drift->trunc": 1,
+   "trunc->drift": 1
+  }
+ },
+ "SMF12B": {
+  "n": 88,
+  "both_resolved_n": 76,
+  "both_resolved_median": 0.9999999999993414,
+  "both_resolved_max_abs_dev": 0.002610431671948077,
+  "transitions": {
+   "None->None": 7,
+   "trunc->trunc": 1,
+   "stall->stall": 28,
+   "None->edge": 1,
+   "edge->edge": 48,
+   "edge->None": 2,
+   "None->stall": 1
+  }
+ },
+ "SMF12CG": {
+  "n": 88,
+  "both_resolved_n": 59,
+  "both_resolved_median": 1.000000000000181,
+  "both_resolved_max_abs_dev": 0.01392366054217209,
+  "transitions": {
+   "None->None": 21,
+   "edge->edge": 16,
+   "drift->drift": 25,
+   "stall->stall": 19,
+   "trunc->trunc": 3,
+   "None->stall": 2,
+   "trunc->drift": 1,
+   "None->drift": 1
+  }
+ },
+ "SMF20B": {
+  "n": 86,
+  "both_resolved_n": 60,
+  "both_resolved_median": 0.9999999999999487,
+  "both_resolved_max_abs_dev": 0.02972745711401581,
+  "transitions": {
+   "edge->edge": 29,
+   "stall->stall": 33,
+   "None->None": 17,
+   "stall->None": 3,
+   "trunc->trunc": 2,
+   "None->stall": 2
+  }
+ },
+ "SMF20CG": {
+  "n": 88,
+  "both_resolved_n": 35,
+  "both_resolved_median": 0.9999999999987041,
+  "both_resolved_max_abs_dev": 0.001248792691273648,
+  "transitions": {
+   "edge->edge": 13,
+   "trunc->trunc": 21,
+   "edge->None": 2,
+   "None->None": 23,
+   "stall->stall": 22,
+   "edge->trunc": 2,
+   "trunc->stall": 1,
+   "stall->None": 2,
+   "None->edge": 1,
+   "stall->trunc": 1
+  }
+ },
+ "_all": {
+  "both_resolved_n": 481,
+  "median": 0.9999999999998314,
+  "max_abs_dev": 0.07543807430438099
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "check_push_deep.py",
+   "generator_sha256_16": "60531995bafcbea9",
+   "declared_inputs": [
+    "runs/push_deep"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "SMF2B": {
+  "n": 170,
+  "shape_n": 168,
+  "shape_W_ratio_med": 0.9931489132764002,
+  "shape_W_ratio_p10": 0.5343570532171434,
+  "shape_W_ratio_p90": 1.0026490963801225,
+  "shape_paired_n": 168,
+  "shape_c0_med": 0.8823626801803031,
+  "shape_calt_med": 0.9349786423099216,
+  "shape_kefrac_med": 0.9908732061041577
+ },
+ "SMF2CG": {
+  "n": 17,
+  "shape_n": 1,
+  "shape_W_ratio_med": 2.375150034200086,
+  "shape_W_ratio_p10": 2.375150034200086,
+  "shape_W_ratio_p90": 2.375150034200086,
+  "shape_paired_n": 1,
+  "shape_c0_med": 2.211476990512945,
+  "shape_calt_med": 0.9310893874785205,
+  "shape_kefrac_med": 0.9795971621593053
+ },
+ "SMF4B": {
+  "n": 194,
+  "shape_n": 184,
+  "shape_W_ratio_med": 0.9824927556937553,
+  "shape_W_ratio_p10": 0.6827023388326748,
+  "shape_W_ratio_p90": 1.0510377021161277,
+  "shape_paired_n": 184,
+  "shape_c0_med": 0.9458497976896223,
+  "shape_calt_med": 0.9767942279729233,
+  "shape_kefrac_med": 0.9699517720733057,
+  "story_n": 189,
+  "story_W_ratio_med": 0.9983800166328779,
+  "story_W_ratio_p10": 0.9933451703440868,
+  "story_W_ratio_p90": 1.0000590428576397,
+  "story_paired_n": 189,
+  "story_c0_med": 0.9437429454142485,
+  "story_calt_med": 0.9461955503488239,
+  "story_kefrac_med": 0.9689081935482893
+ },
+ "SMF4CG": {
+  "n": 127,
+  "shape_n": 74,
+  "shape_W_ratio_med": 0.9953384877658875,
+  "shape_W_ratio_p10": 0.8911636067917639,
+  "shape_W_ratio_p90": 1.0292610357218985,
+  "shape_paired_n": 74,
+  "shape_c0_med": 0.44444657228783185,
+  "shape_calt_med": 0.4669522112497237,
+  "shape_kefrac_med": 0.9611052611970622
+ },
+ "SMF8B": {
+  "n": 177,
+  "shape_n": 170,
+  "shape_W_ratio_med": 0.9729139142289518,
+  "shape_W_ratio_p10": 0.6640401335263302,
+  "shape_W_ratio_p90": 1.2407277199415785,
+  "shape_paired_n": 170,
+  "shape_c0_med": 0.9016625349126106,
+  "shape_calt_med": 0.9193263509512389,
+  "shape_kefrac_med": 0.9109169857604673,
+  "story_n": 164,
+  "story_W_ratio_med": 0.9993722345936296,
+  "story_W_ratio_p10": 0.9561748755195258,
+  "story_W_ratio_p90": 1.0006460364238636,
+  "story_paired_n": 164,
+  "story_c0_med": 0.9074269266704273,
+  "story_calt_med": 0.9177994250130839,
+  "story_kefrac_med": 0.9013076688814237
+ },
+ "SMF8CG": {
+  "n": 141,
+  "shape_n": 106,
+  "shape_W_ratio_med": 0.9919354685806264,
+  "shape_W_ratio_p10": 0.7511820270361058,
+  "shape_W_ratio_p90": 1.1900194931064765,
+  "shape_paired_n": 106,
+  "shape_c0_med": 0.704941208501561,
+  "shape_calt_med": 0.726120699966871,
+  "shape_kefrac_med": 0.8590733323612004
+ },
+ "SMF12B": {
+  "n": 79,
+  "shape_n": 64,
+  "shape_W_ratio_med": 1.0009488370688946,
+  "shape_W_ratio_p10": 0.8935227096574617,
+  "shape_W_ratio_p90": 1.262605465046337,
+  "shape_paired_n": 64,
+  "shape_c0_med": 0.9020395345185219,
+  "shape_calt_med": 0.8522672120377582,
+  "shape_kefrac_med": 0.8889967993147618,
+  "story_n": 37,
+  "story_W_ratio_med": 0.9996043175834337,
+  "story_W_ratio_p10": 0.9906006234823843,
+  "story_W_ratio_p90": 1.0002913308170647,
+  "story_paired_n": 37,
+  "story_c0_med": 0.9184155635324922,
+  "story_calt_med": 0.9185317132938356,
+  "story_kefrac_med": 0.8966912012045355
+ },
+ "SMF12CG": {
+  "n": 64,
+  "shape_n": 41,
+  "shape_W_ratio_med": 0.9469604734517062,
+  "shape_W_ratio_p10": 0.39979124898404333,
+  "shape_W_ratio_p90": 1.2225237561611864,
+  "shape_paired_n": 41,
+  "shape_c0_med": 0.7649461599560109,
+  "shape_calt_med": 0.8568221036309395,
+  "shape_kefrac_med": 0.8501333331667451
+ },
+ "SMF20B": {
+  "n": 67,
+  "shape_n": 2,
+  "shape_W_ratio_med": 0.8556526624853218,
+  "shape_W_ratio_p10": 0.8493030631217257,
+  "shape_W_ratio_p90": 0.8620022618489178,
+  "shape_paired_n": 2,
+  "shape_c0_med": 0.8359690019660677,
+  "shape_calt_med": 0.9770347600583599,
+  "shape_kefrac_med": 0.7332683806472398
+ },
+ "SMF20CG": {
+  "n": 64
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "shape_vs_mode1.py",
+   "generator_sha256_16": "70b7286ab5c2e0d3",
+   "declared_inputs": [
+    "runs/push_shape",
+    "runs/push",
+    "analysis/law_table.csv"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "SMF12B": {
+  "n_coll": 100,
+  "after_end": 24,
+  "after_t95": 97,
+  "med_dt_end": -3.6225000000009597,
+  "med_dt_95": 11.753211140816443
+ },
+ "SMF12CG": {
+  "n_coll": 100,
+  "after_end": 3,
+  "after_t95": 90,
+  "med_dt_end": -8.280000000000525,
+  "med_dt_95": 7.667063103598419
+ },
+ "SMF20B": {
+  "n_coll": 100,
+  "after_end": 22,
+  "after_t95": 96,
+  "med_dt_end": -3.8599999999996406,
+  "med_dt_95": 12.590502089645657
+ },
+ "SMF20CG": {
+  "n_coll": 100,
+  "after_end": 17,
+  "after_t95": 97,
+  "med_dt_end": -8.245000000000124,
+  "med_dt_95": 9.986407456777181
+ },
+ "SMF2B": {
+  "n_coll": 100,
+  "after_end": 0,
+  "after_t95": 69,
+  "med_dt_end": -15.2025000000026,
+  "med_dt_95": 2.6478387979617066
+ },
+ "SMF2CG": {
+  "n_coll": 100,
+  "after_end": 0,
+  "after_t95": 12,
+  "med_dt_end": -26.725,
+  "med_dt_95": -6.23666797557712
+ },
+ "SMF4B": {
+  "n_coll": 100,
+  "after_end": 7,
+  "after_t95": 93,
+  "med_dt_end": -6.335000000001669,
+  "med_dt_95": 8.734274825875577
+ },
+ "SMF4CG": {
+  "n_coll": 100,
+  "after_end": 0,
+  "after_t95": 74,
+  "med_dt_end": -13.624999999999606,
+  "med_dt_95": 2.8177740007526975
+ },
+ "SMF8B": {
+  "n_coll": 100,
+  "after_end": 13,
+  "after_t95": 93,
+  "med_dt_end": -6.44500000000027,
+  "med_dt_95": 9.531334235807432
+ },
+ "SMF8CG": {
+  "n_coll": 100,
+  "after_end": 2,
+  "after_t95": 82,
+  "med_dt_end": -10.602500000001097,
+  "med_dt_95": 6.1186439488146975
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "collapse_after_input.py",
+   "generator_sha256_16": "77dce2baa0247502",
+   "declared_inputs": [
+    "runs/ida",
+    "results/ida_summary.json"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

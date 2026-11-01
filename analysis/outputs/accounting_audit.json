@@ -1,0 +1,134 @@
+{
+ "2B": {
+  "n_trans": 172,
+  "pushed": 170,
+  "w_pos": 170,
+  "e_u": 171,
+  "in_coeff": 169,
+  "excluded": 3,
+  "beta_u_zero": 1,
+  "no_push": 2,
+  "w_nonpos": 0,
+  "lam_min_big": 1
+ },
+ "2CG": {
+  "n_trans": 30,
+  "pushed": 17,
+  "w_pos": 16,
+  "e_u": 30,
+  "in_coeff": 16,
+  "excluded": 14,
+  "beta_u_zero": 0,
+  "no_push": 13,
+  "w_nonpos": 1,
+  "lam_min_big": 4
+ },
+ "4B": {
+  "n_trans": 200,
+  "pushed": 194,
+  "w_pos": 193,
+  "e_u": 198,
+  "in_coeff": 191,
+  "excluded": 9,
+  "beta_u_zero": 2,
+  "no_push": 6,
+  "w_nonpos": 1,
+  "lam_min_big": 2
+ },
+ "4CG": {
+  "n_trans": 147,
+  "pushed": 130,
+  "w_pos": 130,
+  "e_u": 146,
+  "in_coeff": 129,
+  "excluded": 18,
+  "beta_u_zero": 1,
+  "no_push": 17,
+  "w_nonpos": 0,
+  "lam_min_big": 0
+ },
+ "8B": {
+  "n_trans": 200,
+  "pushed": 177,
+  "w_pos": 177,
+  "e_u": 198,
+  "in_coeff": 175,
+  "excluded": 25,
+  "beta_u_zero": 2,
+  "no_push": 23,
+  "w_nonpos": 0,
+  "lam_min_big": 33
+ },
+ "8CG": {
+  "n_trans": 183,
+  "pushed": 146,
+  "w_pos": 142,
+  "e_u": 178,
+  "in_coeff": 141,
+  "excluded": 42,
+  "beta_u_zero": 5,
+  "no_push": 37,
+  "w_nonpos": 4,
+  "lam_min_big": 2
+ },
+ "12B": {
+  "n_trans": 88,
+  "pushed": 81,
+  "w_pos": 81,
+  "e_u": 88,
+  "in_coeff": 81,
+  "excluded": 7,
+  "beta_u_zero": 0,
+  "no_push": 7,
+  "w_nonpos": 0,
+  "lam_min_big": 27
+ },
+ "12CG": {
+  "n_trans": 87,
+  "pushed": 66,
+  "w_pos": 65,
+  "e_u": 82,
+  "in_coeff": 61,
+  "excluded": 26,
+  "beta_u_zero": 5,
+  "no_push": 21,
+  "w_nonpos": 1,
+  "lam_min_big": 0
+ },
+ "20B": {
+  "n_trans": 84,
+  "pushed": 69,
+  "w_pos": 67,
+  "e_u": 74,
+  "in_coeff": 59,
+  "excluded": 25,
+  "beta_u_zero": 10,
+  "no_push": 15,
+  "w_nonpos": 2,
+  "lam_min_big": 47
+ },
+ "20CG": {
+  "n_trans": 87,
+  "pushed": 65,
+  "w_pos": 65,
+  "e_u": 82,
+  "in_coeff": 62,
+  "excluded": 25,
+  "beta_u_zero": 5,
+  "no_push": 22,
+  "w_nonpos": 0,
+  "lam_min_big": 0
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "accounting_audit.py",
+   "generator_sha256_16": "8edbfca21c9c2223",
+   "declared_inputs": [
+    "analysis/law_table.csv"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}

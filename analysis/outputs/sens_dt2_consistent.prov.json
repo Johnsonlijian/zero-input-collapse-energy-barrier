@@ -1,0 +1,11 @@
+{
+ "stamped_file": "sens_dt2_consistent.json",
+ "generator": "sens_dt2_consistent.py",
+ "generator_sha256_16": "ca4daeee47876d9b",
+ "declared_inputs": [
+  "runs/kick_dt2",
+  "runs/kick"
+ ],
+ "stamped_utc": "2026-10-31T06:47:00",
+ "host": "DESKTOP-4LKAH4F"
+}

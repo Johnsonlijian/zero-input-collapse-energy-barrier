@@ -1,0 +1,10 @@
+{
+ "model": "SMF2B",
+ "solver": "arpack_stored_frozen",
+ "phi1": [
+  0.7008026646510479,
+  1.0
+ ],
+ "T1_s": 0.9,
+ "max_abs_diff_vs_fresh_arpack": 1.1102230246251565e-16
+}

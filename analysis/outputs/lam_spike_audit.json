@@ -1,0 +1,139 @@
+{
+ "SMF12B": {
+  "n": 211,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "edge": 104,
+   "stall": 95,
+   "trunc": 1,
+   "downhill": 11
+  }
+ },
+ "SMF12CG": {
+  "n": 209,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "trunc": 32,
+   "downhill": 16,
+   "stall": 52,
+   "edge": 41,
+   "drift": 68
+  }
+ },
+ "SMF20B": {
+  "n": 190,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "edge": 71,
+   "downhill": 6,
+   "stall": 111,
+   "trunc": 2
+  }
+ },
+ "SMF20CG": {
+  "n": 168,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "edge": 35,
+   "downhill": 8,
+   "trunc": 61,
+   "stall": 64
+  }
+ },
+ "SMF2B": {
+  "n": 587,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "drift": 476,
+   "trunc": 98,
+   "stall": 6,
+   "edge": 4,
+   "downhill": 3
+  }
+ },
+ "SMF2CG": {
+  "n": 71,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "trunc": 25,
+   "drift": 44,
+   "edge": 1,
+   "downhill": 1
+  }
+ },
+ "SMF4B": {
+  "n": 625,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "stall": 196,
+   "edge": 333,
+   "downhill": 87,
+   "trunc": 4,
+   "drift": 5
+  }
+ },
+ "SMF4CG": {
+  "n": 396,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "edge": 8,
+   "drift": 351,
+   "stall": 6,
+   "trunc": 28,
+   "downhill": 3
+  }
+ },
+ "SMF8B": {
+  "n": 488,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "stall": 143,
+   "edge": 258,
+   "downhill": 80,
+   "trunc": 3,
+   "drift": 4
+  }
+ },
+ "SMF8CG": {
+  "n": 461,
+  "lam_spike": 0,
+  "spike_inside_window": 0,
+  "worst_abs_lam": 0.0,
+  "lims": {
+   "drift": 432,
+   "trunc": 19,
+   "downhill": 8,
+   "edge": 2
+  }
+ },
+ "_protocol": {
+  "aggregate_stamp": {
+   "generator": "lam_spike_audit.py",
+   "generator_sha256_16": "a1b8e9576d13a5d1",
+   "declared_inputs": [
+    "runs/push"
+   ],
+   "stamped_utc": "2026-10-31T06:47:00",
+   "host": "DESKTOP-4LKAH4F",
+   "note": "aggregate-level provenance stamp added by stamp_aggregates.py; statistics unchanged"
+  }
+ }
+}
